@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock-Analysis
 ## Overview of Project
 ### Purpose
 A client was interested in investing in a perticular green energy stock "DQ". The client had no idea of how the stock was performing and wanted to invest solely on the fascination of the name. The original question was to access the total daily volume and the yearly return for the "DQ" stock. With data from 2017 and 2018, we were able to compile an effective analysis.
