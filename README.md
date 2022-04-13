@@ -1,9 +1,9 @@
 # Stock-Analysis
 ## Overview of Project
 ### Purpose
-A client was interested in investing in a perticular green energy stock "DQ". The client had no idea of how the stock was performing and wanted to invest solely on the fascination of the name. The original question was to access the total daily volume and the yearly return for the "DQ" stock. With data from 2017 and 2018, we were able to compile an effective analysis.
+A client was interested in investing in a particular green energy stock "DQ". The client had no idea of how the stock was performing and wanted to invest solely on the fascination of the name. The original question was to access the total daily volume and the yearly return for the "DQ" stock. With data from 2017 and 2018, we were able to compile an effective analysis.
 ## Results
-It was determined that "DQ's" 2018 yearly return was a lost of 63%. So we expanded our research to 11 other green stocks for analysis. The objective was to find the ticker, the total daily volume, and the return on each stock. See the steps below for an illustration of the steps taken to provide such information.
+It was determined that "DQ's" 2018 yearly return was a loss of 63%. So, we expanded our research to 11 other green stocks for analysis. The objective was to find the ticker, the total daily volume, and the return on each stock. See the steps below for an illustration of the steps taken to provide such information.
     
 
 'Format the output sheet on All Stocks Analysis worksheet
